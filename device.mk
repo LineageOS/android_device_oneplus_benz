@@ -204,8 +204,6 @@ PRODUCT_PACKAGES += \
     ueventd.oplus.rc \
     ueventd.qcom.rc
 
-$(call soong_config_set,libinit,vendor_init_lib,//$(LOCAL_PATH):libinit_oplus)
-
 # Kernel
 PRODUCT_COPY_FILES += \
     kernel/oneplus/sm8550/modules.systemdlkm_blocklist.msm.kalama:$(TARGET_COPY_OUT_VENDOR_DLKM)/lib/modules/system_dlkm.modules.blocklist
