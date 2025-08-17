@@ -28,6 +28,8 @@ on post-fs-data
 on property:ro.boot.prjname=*
     # Display
     setprop ro.separate.soft ${ro.boot.prjname}
+    # Hardware revision
+    setprop ro.boot.hardware.revision IN
 
 on property:sys.boot_completed=1
     # Charging

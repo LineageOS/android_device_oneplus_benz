@@ -195,6 +195,7 @@ PRODUCT_PACKAGES += \
     init.kernel.post_boot-crow_4_3_0.sh \
     init.kernel.post_boot-crow_default_4_3_1.sh \
     init.oplus.rc \
+    init.oplus.hw.rc \
     init.qcom.early_boot.sh \
     init.qcom.rc \
     init.qcom.recovery.rc \
@@ -203,8 +204,6 @@ PRODUCT_PACKAGES += \
     init.target.rc \
     ueventd.oplus.rc \
     ueventd.qcom.rc
-
-$(call soong_config_set,libinit,vendor_init_lib,//$(LOCAL_PATH):libinit_oplus)
 
 # Kernel
 PRODUCT_COPY_FILES += \
