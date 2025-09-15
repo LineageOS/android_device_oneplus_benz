@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "39d5758f_672feb7f",
+        "filename": "board-info.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-15T17:32:28Z",
+      "side": 1,
+      "message": "add newline at the end",
+      "revId": "70e63045e31de031fcca47cf8074729d53a2cc6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "de7b54cd_1df0721e",
         "filename": "device.mk",
         "patchSetId": 2
