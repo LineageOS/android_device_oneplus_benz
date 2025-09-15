@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c77c6204_49e565e1",
+        "filename": "init/init.oplus.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-15T17:27:50Z",
+      "side": 1,
+      "message": "add before this trigger",
+      "revId": "1a360f6bf6dd72a03d3c5d2e115b078a253fcc2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
