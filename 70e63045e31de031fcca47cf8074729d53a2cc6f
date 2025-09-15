@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e483f48a_697c36e5",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-15T17:39:26Z",
+      "side": 1,
+      "message": "We used to have this in CyanogenMod, but new devices (at least OnePlus) no longer have this. Wiki is there for that. I\u0027d drop it to be consistent with other trees.",
+      "revId": "70e63045e31de031fcca47cf8074729d53a2cc6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "39d5758f_672feb7f",
         "filename": "board-info.txt",
         "patchSetId": 2
