@@ -16,6 +16,24 @@
       "message": "Tried this https://review.lineageos.org/c/LineageOS/android_hardware_oplus/+/430139 ? Does it help?",
       "revId": "8454f5cf23f5d04b3071b47c536918f94b216f91",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "71173c28_6c87d4e5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-16T06:22:06Z",
+      "side": 1,
+      "message": "Will test.",
+      "parentUuid": "2c10b969_d1285545",
+      "revId": "8454f5cf23f5d04b3071b47c536918f94b216f91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
