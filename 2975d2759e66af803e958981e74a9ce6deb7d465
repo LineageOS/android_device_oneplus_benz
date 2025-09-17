@@ -34,6 +34,24 @@
       "parentUuid": "93be49ec_ce5da364",
       "revId": "2975d2759e66af803e958981e74a9ce6deb7d465",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ef0e84d9_90f5eff6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-17T06:38:34Z",
+      "side": 1,
+      "message": "If that\u0027s the case you can simply drop libinit.",
+      "parentUuid": "6e7235e6_afe42dcb",
+      "revId": "2975d2759e66af803e958981e74a9ce6deb7d465",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
