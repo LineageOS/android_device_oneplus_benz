@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d61cf51c_833007f2",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-17T06:56:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e483f48a_697c36e5",
+      "revId": "70e63045e31de031fcca47cf8074729d53a2cc6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "39d5758f_672feb7f",
@@ -35,6 +53,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c5f0c5c5_aecd5c89",
+        "filename": "board-info.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-17T06:56:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "39d5758f_672feb7f",
+      "revId": "70e63045e31de031fcca47cf8074729d53a2cc6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "de7b54cd_1df0721e",
@@ -48,6 +84,30 @@
       "writtenOn": "2025-09-15T17:22:53Z",
       "side": 1,
       "message": "spaces, not tabs",
+      "range": {
+        "startLine": 127,
+        "startChar": 0,
+        "endLine": 127,
+        "endChar": 1
+      },
+      "revId": "70e63045e31de031fcca47cf8074729d53a2cc6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "722dcd00_4ba7ca11",
+        "filename": "device.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-17T06:56:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "de7b54cd_1df0721e",
       "range": {
         "startLine": 127,
         "startChar": 0,
