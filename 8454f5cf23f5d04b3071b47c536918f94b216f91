@@ -34,6 +34,24 @@
       "parentUuid": "2c10b969_d1285545",
       "revId": "8454f5cf23f5d04b3071b47c536918f94b216f91",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "88798bcb_c5c50d62",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-17T06:55:27Z",
+      "side": 1,
+      "message": "Didn\u0027t work, CLICK and TICK effects are still very weak",
+      "parentUuid": "71173c28_6c87d4e5",
+      "revId": "8454f5cf23f5d04b3071b47c536918f94b216f91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
