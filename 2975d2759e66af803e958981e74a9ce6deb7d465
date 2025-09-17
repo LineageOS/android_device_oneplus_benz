@@ -16,6 +16,24 @@
       "message": "There\u0027s only IN variant of Nord CE4?",
       "revId": "2975d2759e66af803e958981e74a9ce6deb7d465",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e7235e6_afe42dcb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-17T04:03:43Z",
+      "side": 1,
+      "message": "Yes, Nord CE4 was launched only in IN.",
+      "parentUuid": "93be49ec_ce5da364",
+      "revId": "2975d2759e66af803e958981e74a9ce6deb7d465",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
