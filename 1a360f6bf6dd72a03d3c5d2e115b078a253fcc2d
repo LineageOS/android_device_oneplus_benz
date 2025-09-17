@@ -16,6 +16,24 @@
       "message": "add before this trigger",
       "revId": "1a360f6bf6dd72a03d3c5d2e115b078a253fcc2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "90e16f6e_305b2c65",
+        "filename": "init/init.oplus.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-17T06:44:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c77c6204_49e565e1",
+      "revId": "1a360f6bf6dd72a03d3c5d2e115b078a253fcc2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
