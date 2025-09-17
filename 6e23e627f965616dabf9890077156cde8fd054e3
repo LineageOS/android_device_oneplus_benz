@@ -22,6 +22,30 @@
       },
       "revId": "6e23e627f965616dabf9890077156cde8fd054e3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "99975f3d_9d2be06e",
+        "filename": "init/init.oplus.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-17T08:50:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c8ee59ef_e57859d7",
+      "range": {
+        "startLine": 31,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 40
+      },
+      "revId": "6e23e627f965616dabf9890077156cde8fd054e3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
