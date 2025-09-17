@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c8ee59ef_e57859d7",
+        "filename": "init/init.oplus.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-17T08:15:48Z",
+      "side": 1,
+      "message": "Not needed here, if you put it in init.oplus.hw.rc. But anyway, why not just set it in vendor.prop? Or... not set it at all?",
+      "range": {
+        "startLine": 31,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 40
+      },
+      "revId": "6e23e627f965616dabf9890077156cde8fd054e3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
