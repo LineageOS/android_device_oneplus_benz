@@ -16,6 +16,374 @@
       "message": "You don\u0027t need to pick the commit, but adapt according to this: https://review.lineageos.org/c/LineageOS/android_device_oneplus_sm8550-common/+/452378.",
       "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "028b6f80_75c45c2b",
+        "filename": "modules.load",
+        "patchSetId": 7
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Move to modules.load.first_stage",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 13
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e2e6b78d_a96f0c5f",
+        "filename": "modules.load",
+        "patchSetId": 7
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Dep, can be removed.",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 14
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0c3ae8ee_a9f3893f",
+        "filename": "modules.load",
+        "patchSetId": 7
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Dep, can be removed.",
+      "range": {
+        "startLine": 50,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 14
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7af1db26_54bc00fb",
+        "filename": "modules.load",
+        "patchSetId": 7
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Dep, can be removed.",
+      "range": {
+        "startLine": 52,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 14
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ac501446_47b3efb3",
+        "filename": "modules.load",
+        "patchSetId": 7
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Deps, can be removed.",
+      "range": {
+        "startLine": 102,
+        "startChar": 0,
+        "endLine": 103,
+        "endChar": 13
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5959e0f4_f4eb2e04",
+        "filename": "modules.load",
+        "patchSetId": 7
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Move to modules.load.first_stage",
+      "range": {
+        "startLine": 175,
+        "startChar": 0,
+        "endLine": 175,
+        "endChar": 15
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "57695b49_6c056f20",
+        "filename": "modules.load",
+        "patchSetId": 7
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Move to modules.include.vendor_ramdisk",
+      "range": {
+        "startLine": 181,
+        "startChar": 0,
+        "endLine": 181,
+        "endChar": 16
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8d59965a_c1980b85",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Move to modules.load.first_stage",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 13
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "94368bbb_3b1b4d61",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Dep, can be removed.",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 14
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "03be5400_b8b72955",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Dep, can be removed.",
+      "range": {
+        "startLine": 40,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 14
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f5412688_d8711790",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Dep, can be removed.",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 14
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2f3f51ea_58524742",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Drop.",
+      "range": {
+        "startLine": 50,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 18
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "72fc8b1c_c981559e",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Deps, can be removed.",
+      "range": {
+        "startLine": 84,
+        "startChar": 0,
+        "endLine": 85,
+        "endChar": 13
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e0d4f6b5_32da2516",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Already present in modules.include.vendor_ramdisk. It\u0027s a dep, doesn\u0027t need to be explicitly loaded.",
+      "range": {
+        "startLine": 137,
+        "startChar": 0,
+        "endLine": 137,
+        "endChar": 19
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "65ed9a20_448eedda",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Move to modules.load.first_stage",
+      "range": {
+        "startLine": 144,
+        "startChar": 0,
+        "endLine": 144,
+        "endChar": 15
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0f709496_5d5305c1",
+        "filename": "modules.load.recovery",
+        "patchSetId": 7
+      },
+      "lineNbr": 145,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T13:37:38Z",
+      "side": 1,
+      "message": "Move to modules.include.vendor_ramdisk",
+      "range": {
+        "startLine": 145,
+        "startChar": 0,
+        "endLine": 145,
+        "endChar": 16
+      },
+      "revId": "7c7b4d4ddf233b5fe284fedb81c44c1a2d145634",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
