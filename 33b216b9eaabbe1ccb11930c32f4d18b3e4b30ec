@@ -33,6 +33,23 @@
       "message": "You\u0027d still need to drop libinit, tho?",
       "revId": "33b216b9eaabbe1ccb11930c32f4d18b3e4b30ec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "acc3276e_444989ee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 9
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-21T09:30:39Z",
+      "side": 1,
+      "message": "An idea is to squash the removal into the initial rebrand change.",
+      "revId": "33b216b9eaabbe1ccb11930c32f4d18b3e4b30ec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
