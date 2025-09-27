@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9dfc16e3_b62c3d51",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-27T17:38:43Z",
+      "side": 1,
+      "message": "Fast-forward 22.2 to 23.0 first and rebase again.",
+      "revId": "ded478a7d97e22e018582a3e823319aee38aed64",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
