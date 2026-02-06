@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "27b71ac7_b61dc635",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6360
+      },
+      "writtenOn": "2026-02-06T02:07:41Z",
+      "side": 1,
+      "message": "vendor/oneplus/benz/proprietary/odm/bin/hw/vendor.oplus.hardware.charger-V10-service: error: Unresolved symbol: _ZN7android4base4TrimERKNSt3__112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE",
+      "revId": "59df327c4f797c192fb532e4f96c5196c2ac108e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
