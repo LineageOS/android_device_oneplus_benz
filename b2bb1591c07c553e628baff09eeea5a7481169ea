@@ -16,6 +16,23 @@
       "message": "Can you regen vendor and merge? I have merged hw/oplus chain already.",
       "revId": "b2bb1591c07c553e628baff09eeea5a7481169ea",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f46bf5c8_09e8a443",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6360
+      },
+      "writtenOn": "2026-06-21T12:42:41Z",
+      "side": 1,
+      "message": "Hi, deblob needs more clean up... \nerror: hardware/oplus/interfaces/Android.bp:114:1: module \"vendor.oplus.hardware.cameraextension-V1-ndk\" variant \"android_vendor_arm64_armv8-2a-dotprod\" (created by module \"vendor.oplus.hardware.cameraextension_interface\"): partition is different: system_ext(vendor.oplus.hardware.cameraextension-V1-ndk) !\u003d vendor(prebuilt_vendor.oplus.hardware.cameraextension-V1-ndk)\nerror: hardware/oplus/interfaces/Android.bp:81:1: module \"vendor.oplus.hardware.camera_rfi-V1-ndk\" variant \"android_vendor_arm64_armv8-2a-dotprod\" (created by module \"vendor.oplus.hardware.camera_rfi_interface\"): partition is different: system_ext(vendor.oplus.hardware.camera_rfi-V1-ndk) !\u003d odm(prebuilt_vendor.oplus.hardware.camera_rfi-V1-ndk)",
+      "revId": "b2bb1591c07c553e628baff09eeea5a7481169ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": [
