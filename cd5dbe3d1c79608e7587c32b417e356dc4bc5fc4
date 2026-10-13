@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "681c4b61_9c75b232",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-10-13T09:37:10Z",
+      "side": 1,
+      "message": "Maybe give this one a new Change-Id. It\u0027s different from the other one in sm8550.",
+      "revId": "cd5dbe3d1c79608e7587c32b417e356dc4bc5fc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
